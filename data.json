@@ -1,0 +1,399 @@
+{
+  "schedule": {
+    "Monday": [
+      {
+        "period": 1,
+        "time": "08:30 AM - 09:45 AM",
+        "title": "Web-Slinging Physics & Trajectories",
+        "code": "PHY-301",
+        "instructor": "Peter Parker",
+        "room": "Midtown High Roof Lab",
+        "category": "Physics",
+        "note": "Calculating arc length & pendulum vectors under high wind."
+      },
+      {
+        "period": 2,
+        "time": "10:00 AM - 11:15 AM",
+        "title": "Advanced AI & Robotics Mechanics",
+        "code": "ROB-402",
+        "instructor": "Prof. Otto Octavius",
+        "room": "Oscorp Sub-Level 3",
+        "category": "Robotics",
+        "note": "Neural interface alignment for multi-arm actuators."
+      },
+      {
+        "period": 3,
+        "time": "11:30 AM - 12:45 PM",
+        "title": "Bio-Genetics & DNA Sequencing",
+        "code": "BIO-204",
+        "instructor": "Dr. Curtis Connors",
+        "room": "ESU Science Center",
+        "category": "Genetics",
+        "note": "Recombinant reptilian enzyme neutralization labs."
+      },
+      {
+        "period": 4,
+        "time": "01:30 PM - 02:45 PM",
+        "title": "Quantum Multiverse Mechanics",
+        "code": "PHY-509",
+        "instructor": "Dr. Stephen Strange",
+        "room": "Sanctum Annex 4",
+        "category": "Multiverse",
+        "note": "Dimensional displacement vectors & anomaly containment."
+      },
+      {
+        "period": 5,
+        "time": "03:00 PM - 04:15 PM",
+        "title": "Crime-Fighting Ethics & Journalism",
+        "code": "JRN-101",
+        "instructor": "J. Jonah Jameson",
+        "room": "Bugle Tech Hub",
+        "category": "Ethics",
+        "note": "Dissecting sensationalist headlines vs heroic photojournalism."
+      },
+      {
+        "period": 6,
+        "time": "04:30 PM - 05:30 PM",
+        "title": "Midtown High Gym & Acrobatics",
+        "code": "PE-100",
+        "instructor": "Coach Flash Thompson",
+        "room": "Gymnasium",
+        "category": "Gym",
+        "note": "Wall-crawling agility & aerial maneuvering drills."
+      }
+    ],
+    "Tuesday": [
+      {
+        "period": 1,
+        "time": "08:30 AM - 09:45 AM",
+        "title": "Advanced AI & Robotics Mechanics",
+        "code": "ROB-402",
+        "instructor": "Prof. Otto Octavius",
+        "room": "Oscorp Sub-Level 3",
+        "category": "Robotics",
+        "note": "Firmware updates on mechanical pincers."
+      },
+      {
+        "period": 2,
+        "time": "10:00 AM - 11:15 AM",
+        "title": "Web-Fluid Polymer Chemistry",
+        "code": "CHM-305",
+        "instructor": "Peter Parker",
+        "room": "Chem Lab 202",
+        "category": "Physics",
+        "note": "Tensile strength optimization & dissolvability timers."
+      },
+      {
+        "period": 3,
+        "time": "11:30 AM - 12:45 PM",
+        "title": "Spider-DNA Mutation Analysis",
+        "code": "BIO-408",
+        "instructor": "Dr. Curtis Connors",
+        "room": "ESU Room 104",
+        "category": "Genetics",
+        "note": "Arachnid chromosome gene therapy simulation."
+      },
+      {
+        "period": 4,
+        "time": "01:30 PM - 02:45 PM",
+        "title": "Multiverse Anomaly Detection",
+        "code": "PHY-510",
+        "instructor": "Miguel O'Hara",
+        "room": "Spider-Society HUD",
+        "category": "Multiverse",
+        "note": "Cannon event tracking and glitch stabilization."
+      },
+      {
+        "period": 5,
+        "time": "03:00 PM - 04:15 PM",
+        "title": "Digital Media & Photography 101",
+        "code": "JRN-202",
+        "instructor": "Robbie Robertson",
+        "room": "Daily Bugle Darkroom",
+        "category": "Ethics",
+        "note": "Action camera shutter speeds & spider-cam angles."
+      },
+      {
+        "period": 6,
+        "time": "04:30 PM - 05:30 PM",
+        "title": "Aerial Web-Swinging Practice",
+        "code": "PE-201",
+        "instructor": "Miles Morales",
+        "room": "Brooklyn Bridge Sector",
+        "category": "Gym",
+        "note": "Thwip-and-flip sequence mastery."
+      }
+    ],
+    "Wednesday": [
+      {
+        "period": 1,
+        "time": "08:30 AM - 09:45 AM",
+        "title": "Quantum Multiverse Mechanics",
+        "code": "PHY-509",
+        "instructor": "Dr. Stephen Strange",
+        "room": "Sanctum Annex 4",
+        "category": "Multiverse",
+        "note": "Portal opening stability test."
+      },
+      {
+        "period": 2,
+        "time": "10:00 AM - 11:15 AM",
+        "title": "Web-Slinging Physics & Trajectories",
+        "code": "PHY-301",
+        "instructor": "Peter Parker",
+        "room": "Midtown High Roof Lab",
+        "category": "Physics",
+        "note": "Centripetal acceleration around skyscrapers."
+      },
+      {
+        "period": 3,
+        "time": "11:30 AM - 12:45 PM",
+        "title": "Nanotech Suit Diagnostics",
+        "code": "ROB-501",
+        "instructor": "Tony Stark (AI)",
+        "room": "Stark Tower Workshop",
+        "category": "Robotics",
+        "note": "Heads-up display calibration & iron-spider arms."
+      },
+      {
+        "period": 4,
+        "time": "01:30 PM - 02:45 PM",
+        "title": "Bio-Genetics & DNA Sequencing",
+        "code": "BIO-204",
+        "instructor": "Dr. Curtis Connors",
+        "room": "ESU Science Center",
+        "category": "Genetics",
+        "note": "Gene splicing safety protocols."
+      },
+      {
+        "period": 5,
+        "time": "03:00 PM - 04:15 PM",
+        "title": "Heroic Ethics & Public Safety",
+        "code": "ETH-101",
+        "instructor": "Captain Yuri Watanabe",
+        "room": "PD Headquarters",
+        "category": "Ethics",
+        "note": "Collateral damage minimization in urban fights."
+      },
+      {
+        "period": 6,
+        "time": "04:30 PM - 05:30 PM",
+        "title": "Stealth & Spider-Camouflage",
+        "code": "PE-303",
+        "instructor": "Gwen Stacy",
+        "room": "Midtown Roof Sector",
+        "category": "Gym",
+        "note": "Invisibility timing & silent landing techniques."
+      }
+    ],
+    "Thursday": [
+      {
+        "period": 1,
+        "time": "08:30 AM - 09:45 AM",
+        "title": "Bio-Genetics & DNA Sequencing",
+        "code": "BIO-204",
+        "instructor": "Dr. Curtis Connors",
+        "room": "ESU Science Center",
+        "category": "Genetics",
+        "note": "Antidote compound synthesis."
+      },
+      {
+        "period": 2,
+        "time": "10:00 AM - 11:15 AM",
+        "title": "Cyber Security & Web Hacking",
+        "code": "CS-404",
+        "instructor": "Ned Leeds (Guy in the Chair)",
+        "room": "Lab 101",
+        "category": "Robotics",
+        "note": "Bypassing Oscorp firewall security."
+      },
+      {
+        "period": 3,
+        "time": "11:30 AM - 12:45 PM",
+        "title": "Web-Slinging Physics & Trajectories",
+        "code": "PHY-301",
+        "instructor": "Peter Parker",
+        "room": "Midtown High Roof Lab",
+        "category": "Physics",
+        "note": "Terminal velocity deceleration."
+      },
+      {
+        "period": 4,
+        "time": "01:30 PM - 02:45 PM",
+        "title": "Multiverse Glitch Neutralization",
+        "code": "PHY-512",
+        "instructor": "Spider-Gwen",
+        "room": "Earth-65 Gym",
+        "category": "Multiverse",
+        "note": "Dimensional wristwatch frequency calibration."
+      },
+      {
+        "period": 5,
+        "time": "03:00 PM - 04:15 PM",
+        "title": "Crime-Fighting Ethics & Journalism",
+        "code": "JRN-101",
+        "instructor": "J. Jonah Jameson",
+        "room": "Bugle Tech Hub",
+        "category": "Ethics",
+        "note": "Evaluating public perception."
+      },
+      {
+        "period": 6,
+        "time": "04:30 PM - 05:30 PM",
+        "title": "Web-Shooter Rapid Reload Drills",
+        "code": "PE-104",
+        "instructor": "Peter Parker",
+        "room": "Midtown Gym",
+        "category": "Gym",
+        "note": "Sub-second cartridge swap under fire."
+      }
+    ],
+    "Friday": [
+      {
+        "period": 1,
+        "time": "08:30 AM - 09:45 AM",
+        "title": "Advanced AI & Robotics Mechanics",
+        "code": "ROB-402",
+        "instructor": "Prof. Otto Octavius",
+        "room": "Oscorp Sub-Level 3",
+        "category": "Robotics",
+        "note": "Final project submission for autonomous bots."
+      },
+      {
+        "period": 2,
+        "time": "10:00 AM - 11:15 AM",
+        "title": "Quantum Multiverse Mechanics",
+        "code": "PHY-509",
+        "instructor": "Dr. Stephen Strange",
+        "room": "Sanctum Annex 4",
+        "category": "Multiverse",
+        "note": "Timeline divergence tracking."
+      },
+      {
+        "period": 3,
+        "time": "11:30 AM - 12:45 PM",
+        "title": "Web-Slinging Physics & Trajectories",
+        "code": "PHY-301",
+        "instructor": "Peter Parker",
+        "room": "Midtown High Roof Lab",
+        "category": "Physics",
+        "note": "Wind tunnel drag coefficient analysis."
+      },
+      {
+        "period": 4,
+        "time": "01:30 PM - 02:45 PM",
+        "title": "Bio-Genetics & DNA Sequencing",
+        "code": "BIO-204",
+        "instructor": "Dr. Curtis Connors",
+        "room": "ESU Science Center",
+        "category": "Genetics",
+        "note": "Review of arachnid gene therapy."
+      },
+      {
+        "period": 5,
+        "time": "03:00 PM - 04:15 PM",
+        "title": "Spider-Man Squad Patrol Briefing",
+        "code": "ETH-300",
+        "instructor": "Peter Parker & Miles",
+        "room": "Midtown Command Room",
+        "category": "Ethics",
+        "note": "Weekend NYC sector patrol assignments."
+      },
+      {
+        "period": 6,
+        "time": "04:30 PM - 05:30 PM",
+        "title": "Spider-Verse Pizza Social & Free Lab",
+        "code": "SOC-101",
+        "instructor": "MJ Watson",
+        "room": "Cafeteria / Lounge",
+        "category": "Gym",
+        "note": "Relaxation & web-shooter maintenance."
+      }
+    ],
+    "Saturday": [
+      {
+        "period": 1,
+        "time": "09:00 AM - 10:30 AM",
+        "title": "Oscorp Sub-Level Tech Infiltration",
+        "code": "ROB-601",
+        "instructor": "Ned Leeds",
+        "room": "Oscorp Sub-Lab 4",
+        "category": "Robotics",
+        "note": "Analyzing security protocol bypasses."
+      },
+      {
+        "period": 2,
+        "time": "10:45 AM - 12:15 PM",
+        "title": "Advanced Web-Fluid Synthesis",
+        "code": "CHM-402",
+        "instructor": "Peter Parker",
+        "room": "Midtown Chem Lab",
+        "category": "Physics",
+        "note": "Mixing high-tensile web polymer batches."
+      },
+      {
+        "period": 3,
+        "time": "01:30 PM - 03:00 PM",
+        "title": "Queens Sector Patrol & Citizen Response",
+        "code": "ETH-400",
+        "instructor": "Peter Parker & Miles",
+        "room": "Queens Rooftops",
+        "category": "Ethics",
+        "note": "Active city patrol and web-slinging response."
+      },
+      {
+        "period": 4,
+        "time": "03:15 PM - 04:45 PM",
+        "title": "Spider-Society Multiverse Portal Duty",
+        "code": "PHY-600",
+        "instructor": "Miguel O'Hara",
+        "room": "Multiverse Nexus",
+        "category": "Multiverse",
+        "note": "Dimensional anomaly monitoring shift."
+      },
+      {
+        "period": 5,
+        "time": "05:00 PM - 06:30 PM",
+        "title": "Bugle Photo Briefing & Pizza Lab",
+        "code": "JRN-303",
+        "instructor": "MJ Watson",
+        "room": "Joe's Pizza & Lounge",
+        "category": "Gym",
+        "note": "Weekend photo submissions & downtime."
+      }
+    ]
+  },
+  "iot": {
+    "projector": true,
+    "projectorMode": "Spider-Sense HUD",
+    "attendance": true,
+    "climate": true,
+    "temp": 68,
+    "lighting": true,
+    "lightColor": "#FF0844"
+  },
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Synthesize anti-venom polymer compound",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "Calibrate Spider-Sense radar sensitivity",
+      "done": true
+    },
+    {
+      "id": 3,
+      "text": "Grade Web-Slinging Physics lab reports",
+      "done": false
+    },
+    {
+      "id": 4,
+      "text": "Refill web-shooter cartridges (98%)",
+      "done": false
+    }
+  ],
+  "webFluid": 100,
+  "threatLevel": "NORMAL"
+}
